@@ -1,0 +1,130 @@
+---
+title: "Introduction to Political Science Methods"
+subtitle: "POLS 2000 - Fall 2025"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+  docx:
+    toc: true
+    number-sections: true
+---
+
+## Course Information
+
+**Instructor:** Professor Name  
+**Email:** professor@university.edu  
+**Office:** Building 123, Room 456  
+**Office Hours:** Monday & Wednesday, 2:00-4:00 PM  
+
+**Class Time:** Tuesday & Thursday, 10:00-11:30 AM  
+**Location:** Lecture Hall 101
+
+## Course Description
+
+This course introduces students to the fundamental methods used in political science research. Students will learn both quantitative and qualitative approaches to studying political phenomena.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+1. Understand the scientific method as applied to political science
+2. Design and evaluate research questions
+3. Distinguish between various research methodologies
+4. Analyze and interpret political data using R
+5. Critically evaluate political science research
+
+## Required Materials
+
+- **Textbook:** Research Methods in Political Science (8th Edition)
+- **Software:** R and RStudio (free download)
+- **Additional readings:** Available on course website
+
+## Course Schedule
+
+### Week 1-2: Introduction to Research Methods
+- What is political science research?
+- The scientific method
+- Research questions and hypotheses
+
+### Week 3-4: Research Design
+- Experimental vs. observational studies
+- Qualitative research methods
+- Case studies and comparative analysis
+
+### Week 5-6: Quantitative Methods
+- Introduction to statistics
+- Descriptive statistics
+- Data visualization
+
+### Week 7-8: Introduction to R
+- R basics and RStudio
+- Data manipulation
+- Basic programming concepts
+
+### Week 9-10: Data Analysis
+- Hypothesis testing
+- Correlation and regression
+- Interpreting results
+
+### Week 11-12: Advanced Topics
+- Survey research
+- Content analysis
+- Ethics in political research
+
+### Week 13-14: Final Projects
+- Student presentations
+- Peer review
+
+## Grading
+
+| Component | Weight |
+|-----------|--------|
+| Participation | 10% |
+| Homework Assignments | 30% |
+| Midterm Exam | 25% |
+| Final Project | 35% |
+
+**Total:** 100%
+
+### Grading Scale
+
+- A: 93-100%
+- A-: 90-92%
+- B+: 87-89%
+- B: 83-86%
+- B-: 80-82%
+- C+: 77-79%
+- C: 73-76%
+- C-: 70-72%
+- D: 60-69%
+- F: Below 60%
+
+## Course Policies
+
+### Attendance
+Regular attendance is expected. More than 3 unexcused absences may result in grade reduction.
+
+### Late Work
+Late assignments will be penalized 10% per day unless prior arrangements are made.
+
+### Academic Integrity
+All students are expected to uphold the university's academic integrity policy. Plagiarism and cheating will not be tolerated.
+
+### Accommodations
+Students requiring accommodations should contact the Office of Disability Services and provide documentation to the instructor.
+
+## Contact and Communication
+
+- **Email:** Best for questions outside of class
+- **Office Hours:** Drop in or schedule an appointment
+- **Course Website:** All materials and announcements will be posted online
+
+---
+
+*This syllabus is subject to change. Students will be notified of any modifications.*

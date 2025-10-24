@@ -1,0 +1,33 @@
+---
+title: "Teaching & Syllabi"
+---
+
+## Course Syllabi
+
+All syllabi are available in multiple formats. Click the links below to access the version you need:
+
+### Example Course: Introduction to Political Science Methods
+
+- [View HTML](syllabi/intro-methods/syllabus.html){target="_blank"} - Online version
+- [Download PDF](syllabi/intro-methods/syllabus.pdf){target="_blank"} - Printable version
+- [Download Word](syllabi/intro-methods/syllabus.docx){target="_blank"} - Editable version
+- [Source .qmd](syllabi/intro-methods/syllabus.qmd){target="_blank"} - Quarto source file
+
+### Example Course: Advanced Research Methods
+
+- [View HTML](syllabi/advanced-methods/syllabus.html){target="_blank"} - Online version
+- [Download PDF](syllabi/advanced-methods/syllabus.pdf){target="_blank"} - Printable version
+- [Download Word](syllabi/advanced-methods/syllabus.docx){target="_blank"} - Editable version
+- [Source .qmd](syllabi/advanced-methods/syllabus.qmd){target="_blank"} - Quarto source file
+
+---
+
+## Adding New Syllabi
+
+To add a new syllabus to this site:
+
+1. Create a new folder in the `syllabi/` directory
+2. Add your syllabus as a `.qmd` file
+3. Configure the syllabus to render to HTML, PDF, and Word formats
+4. Add links to this page following the pattern above
+5. Render the website with `quarto render`

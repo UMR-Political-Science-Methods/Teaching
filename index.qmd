@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+---
+
+## Teaching Information
+
+This site provides information about my teaching and course syllabi at the university.
+
+All syllabi are created using R and Quarto (.qmd files) and are available in multiple formats:
+
+- **HTML** - for viewing online
+- **PDF** - for printing
+- **Word** - for editing
+
+Visit the [Teaching](teaching.qmd) page to access all course materials.

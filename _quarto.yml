@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Teaching & Syllabi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: github
+        href: https://github.com/UMR-Political-Science-Methods/Teaching
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
