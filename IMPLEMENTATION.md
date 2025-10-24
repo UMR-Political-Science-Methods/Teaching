@@ -19,7 +19,7 @@ Created two complete example syllabi:
 
 Each syllabus includes:
 - Source `.qmd` file with full course content
-- Placeholder HTML, PDF, and DOCX versions
+- Generated HTML, PDF, and DOCX versions
 
 #### 3. **Active Links** ✓
 The `teaching.qmd` page includes active links to all formats:
@@ -87,7 +87,7 @@ All links have been verified to point to existing files:
 
 ### For the Repository Owner:
 
-1. **Install Quarto**: Download from [quarto.org](https://quarto.org)
+1. **Install Quarto**: Download from [quarto.org/docs/get-started](https://quarto.org/docs/get-started/)
 
 2. **Preview the site**:
    ```bash
