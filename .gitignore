@@ -1,0 +1,22 @@
+# Quarto
+/.quarto/
+/_site/
+*_cache/
+*_files/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (these should be generated, not committed)
+# Comment out if you want to commit rendered outputs
+# *.html
+# *.pdf
+# *.docx

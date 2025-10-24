@@ -1,0 +1,66 @@
+Advanced Research Methods in Political Science
+POLS 4000 - Spring 2026
+
+COURSE INFORMATION
+------------------
+Instructor: Professor Name
+Email: professor@university.edu
+Office: Building 123, Room 456
+Office Hours: Tuesday & Thursday, 1:00-3:00 PM
+
+Class Time: Monday & Wednesday, 3:00-4:30 PM
+Location: Seminar Room 205
+
+COURSE DESCRIPTION
+------------------
+This advanced course builds upon introductory methods training to provide 
+students with sophisticated tools for conducting political science research. 
+The course emphasizes advanced statistical techniques, causal inference, and 
+practical application using R.
+
+PREREQUISITES
+-------------
+- Introduction to Political Science Methods (POLS 2000) or equivalent
+- Basic statistics knowledge
+- Familiarity with R programming
+
+LEARNING OBJECTIVES
+-------------------
+By the end of this course, students will be able to:
+
+1. Apply advanced statistical methods to political science questions
+2. Understand and implement causal inference techniques
+3. Conduct sophisticated data analysis using R
+4. Design and execute original research projects
+5. Critically evaluate published research in political science
+
+REQUIRED MATERIALS
+------------------
+- Textbook: Advanced Methods for Political Analysis (2nd Edition)
+- Software: R, RStudio, and additional packages (all free)
+- Articles: Weekly readings from academic journals (on course website)
+
+GRADING
+-------
+Component                      Weight
+----------------------------------------
+Participation & Discussion    15%
+Problem Sets (4)              30%
+Research Design Proposal      20%
+Final Research Paper          35%
+----------------------------------------
+Total                         100%
+
+COURSE POLICIES
+---------------
+Attendance and Participation: This is a seminar course where active 
+participation is essential. Students are expected to attend all classes, 
+complete readings before class, and participate in discussions.
+
+Academic Integrity: All work must be your own. Collaboration on problem sets 
+is allowed but must be acknowledged. Plagiarism will result in course failure 
+and disciplinary action.
+
+---
+NOTE: This is a placeholder file. To generate the full PDF with proper 
+formatting, run: quarto render syllabi/advanced-methods/syllabus.qmd
